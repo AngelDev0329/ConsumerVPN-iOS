@@ -1,0 +1,6 @@
+framework module VPNKit {
+  umbrella header "VPNKit.h"
+
+  export *
+  module * { export * }
+}

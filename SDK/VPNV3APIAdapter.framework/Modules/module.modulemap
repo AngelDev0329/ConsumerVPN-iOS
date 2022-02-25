@@ -1,0 +1,6 @@
+framework module VPNV3APIAdapter {
+  umbrella header "VPNV3APIAdapter.h"
+
+  export *
+  module * { export * }
+}
